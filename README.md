@@ -1,2 +1,3 @@
-# Responsive-Portfolio
-Homework for week 2
+# Basic-Portfolio
+
+this is my contact info for my brand-spankin-new web dev career.
